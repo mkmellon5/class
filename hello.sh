@@ -1,4 +1,5 @@
 #!/bin/bash
+#file must have .sh extension 
 
 #echo "Hello world"
 

@@ -1,4 +1,5 @@
 #!/usr/bin/perl -w
+#file must have .pl extension
 $DNA='ACGGGAGGACGGGAAAATTACTACGGCATTAGC';
 $DNA2='ATAGTGCCGTGAGAGTGATGATGAT';
 
@@ -8,7 +9,7 @@ print $DNA2,"\n\n";
 
 $DNA3="$DNA$DNA2";
 print "Here is the concatenation of the first two gragments (version 1):\t";
-print $DNA,"\n\n";
+print $DNA3,"\n\n";
 
 #we are going to transcribe now
 $DNA='ACGGGAGGACGGGAAAATTACTACGGCATTAGC';
