@@ -10,6 +10,7 @@ $DNA3="$DNA$DNA2";
 print "Here is the concatenation of the first two gragments (version 1):\t";
 print $DNA,"\n\n";
 
+#we are going to transcribe now
 $DNA='ACGGGAGGACGGGAAAATTACTACGGCATTAGC';
 print "Here is the starting DNA:\n\n";
 print "$DNA\n\n";
